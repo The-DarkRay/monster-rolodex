@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//The-DarkRay.github.io/monster.rolodex/static/css/main.16c90b04.chunk.css",
-    "main.js": "/https//The-DarkRay.github.io/monster.rolodex/static/js/main.929b3267.chunk.js",
-    "main.js.map": "/https//The-DarkRay.github.io/monster.rolodex/static/js/main.929b3267.chunk.js.map",
-    "runtime-main.js": "/https//The-DarkRay.github.io/monster.rolodex/static/js/runtime-main.634ce2a6.js",
-    "runtime-main.js.map": "/https//The-DarkRay.github.io/monster.rolodex/static/js/runtime-main.634ce2a6.js.map",
-    "static/js/2.03915027.chunk.js": "/https//The-DarkRay.github.io/monster.rolodex/static/js/2.03915027.chunk.js",
-    "static/js/2.03915027.chunk.js.map": "/https//The-DarkRay.github.io/monster.rolodex/static/js/2.03915027.chunk.js.map",
-    "index.html": "/https//The-DarkRay.github.io/monster.rolodex/index.html",
-    "precache-manifest.916ca285ba889907ba4565b0e33e1ed6.js": "/https//The-DarkRay.github.io/monster.rolodex/precache-manifest.916ca285ba889907ba4565b0e33e1ed6.js",
-    "service-worker.js": "/https//The-DarkRay.github.io/monster.rolodex/service-worker.js",
-    "static/css/main.16c90b04.chunk.css.map": "/https//The-DarkRay.github.io/monster.rolodex/static/css/main.16c90b04.chunk.css.map",
-    "static/js/2.03915027.chunk.js.LICENSE.txt": "/https//The-DarkRay.github.io/monster.rolodex/static/js/2.03915027.chunk.js.LICENSE.txt"
+    "main.css": "/https//the-darkray.github.io/monster.rolodex/static/css/main.16c90b04.chunk.css",
+    "main.js": "/https//the-darkray.github.io/monster.rolodex/static/js/main.11b6ecd6.chunk.js",
+    "main.js.map": "/https//the-darkray.github.io/monster.rolodex/static/js/main.11b6ecd6.chunk.js.map",
+    "runtime-main.js": "/https//the-darkray.github.io/monster.rolodex/static/js/runtime-main.e0ad50d4.js",
+    "runtime-main.js.map": "/https//the-darkray.github.io/monster.rolodex/static/js/runtime-main.e0ad50d4.js.map",
+    "static/js/2.91f834fb.chunk.js": "/https//the-darkray.github.io/monster.rolodex/static/js/2.91f834fb.chunk.js",
+    "static/js/2.91f834fb.chunk.js.map": "/https//the-darkray.github.io/monster.rolodex/static/js/2.91f834fb.chunk.js.map",
+    "index.html": "/https//the-darkray.github.io/monster.rolodex/index.html",
+    "precache-manifest.85173a6184dd54125df943ec799a243a.js": "/https//the-darkray.github.io/monster.rolodex/precache-manifest.85173a6184dd54125df943ec799a243a.js",
+    "service-worker.js": "/https//the-darkray.github.io/monster.rolodex/service-worker.js",
+    "static/css/main.16c90b04.chunk.css.map": "/https//the-darkray.github.io/monster.rolodex/static/css/main.16c90b04.chunk.css.map",
+    "static/js/2.91f834fb.chunk.js.LICENSE.txt": "/https//the-darkray.github.io/monster.rolodex/static/js/2.91f834fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.634ce2a6.js",
-    "static/js/2.03915027.chunk.js",
+    "static/js/runtime-main.e0ad50d4.js",
+    "static/js/2.91f834fb.chunk.js",
     "static/css/main.16c90b04.chunk.css",
-    "static/js/main.929b3267.chunk.js"
+    "static/js/main.11b6ecd6.chunk.js"
   ]
 }
